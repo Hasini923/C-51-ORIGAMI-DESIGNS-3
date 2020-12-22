@@ -1,0 +1,41 @@
+.header{
+    background-color: #5eebf5;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    border: 2px solid black;
+    border-radius: 50px;
+    display:flex ;
+     flex-wrap:wrap;
+     margin: 80px;
+}
+
+.origami{
+    border-radius: 80px;
+    background-color: #45d620;
+    width: 310px;
+    font-family: cursive;
+    padding: 30px;
+    margin: 80px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
+
+.bodyimg{
+    background-color: #5acfac;
+  
+}
+.body{
+    margin: 0px;
+    background-color: #916bcf;
+}
+
